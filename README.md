@@ -1,4 +1,4 @@
-### Welcome to Lina's Github page! (@linalim)
+### Welcome to Lina's Github page!
 
 <!--
 **linalim/linalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
